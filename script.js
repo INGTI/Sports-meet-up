@@ -1,5 +1,5 @@
 /* =====================================================================
-   ESF ONE-DAY CHRISTIAN FELLOWSHIP SPORTS MEET 2026
+   ESF ONE-DAY  FELLOWSHIP SPORTS MEET 2026
    script.js — vanilla JS only, no frameworks
    ===================================================================== */
 
