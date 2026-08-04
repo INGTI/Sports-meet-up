@@ -9,7 +9,7 @@
 const CONFIG = {
   // Replace with the real WhatsApp number in international format,
   // digits only, no + or spaces (e.g. "919864012345" for +91 98640 12345).
-  WHATSAPP_NUMBER: "91XXXXXXXXXX",
+  WHATSAPP_NUMBER: "917638008096",
 
   // Event date/time used by the countdown timer. ISO format with the
   // +05:30 (IST) offset baked in so it counts down correctly for
